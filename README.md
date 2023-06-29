@@ -9,4 +9,4 @@
 
 <br><strong>Планирумые обновления:</strong> <p>Добавление адаптивности для удобного просмотра сайта на любых устройствах.<p>
 
-<br><strong>Ссылка GHPages:</strong> https://obivaniche.github.io/creative-scroll/
+<br><strong>Ссылка GHPages:</strong> https://obivaniche.github.io/floating-image/
